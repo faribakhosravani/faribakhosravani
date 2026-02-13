@@ -14,4 +14,8 @@
 # 📊 GitHub Stats:
 [![Fariba's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=faribakhosravani&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/faribakhosravani)
 
+<p align="center">
+  <img src="https://media.tenor.com/68uhd4b3tI8AAAAj/black-cat.gif" width="150">
+</p>
+
 ![Profile views](https://komarev.com/ghpvc/?username=faribakhosravani)
