@@ -10,7 +10,7 @@ Hi There!
 ![GIS](https://img.shields.io/badge/GIS-000000?style=for-the-badge&logo=GLOBE&logoColor=white)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faribakhosravani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faribakhosravani/) 
 
 # 📊 GitHub Stats:
 [![Fariba's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=faribakhosravani&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/faribakhosravani)
