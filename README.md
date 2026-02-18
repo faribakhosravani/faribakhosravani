@@ -1,4 +1,17 @@
-Hi There! 
+# <img src="https://media.tenor.com/YCsgU6ozOrsAAAAi/earth.gif" width="37"> **Fariba Khosravani** | Geoscience Enthusiast 
+
+### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">  Welcome to my Coding Portfolio! 
+
+<p align="justify">
+I'm a <strong>junior undergraduate Geology student</strong> at Kharazmi University, deeply passionate about 
+<strong>Geophysics, Remote Sensing, AI-driven forecasting, and Computational Science</strong>. 
+I also enjoy working with Encoder/Decoder techniques<br>
+I specialize in using <strong>programming & data science</strong> to solve geospatial problems in 
+<strong>GIS</strong>.  
+Currently, I'm the <strong> GIS  Specialist at <a href="https://feztool.com/">FEZtool</a></strong>, 
+where I develop computational solutions for Earth Science challenges.
+
+</p>
 ### 🚀 **Tech Stack & Skills**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
