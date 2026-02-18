@@ -12,6 +12,7 @@ Currently, I'm the <strong> GIS  Specialist at <a href="https://feztool.com/">FE
 where I develop computational solutions for Earth Science challenges.
 
 </p>
+
 ### 🚀 **Tech Stack & Skills**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
