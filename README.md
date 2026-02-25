@@ -11,6 +11,8 @@ I specialize in using <strong>programming & data science</strong> to solve geosp
 Currently, I'm the <strong> GIS  Specialist at <a href="https://feztool.com/">FEZtool</a></strong>, 
 where I develop computational solutions for Earth Science challenges.
 
+
+
 </p>
 
 ### 🚀 **Tech Stack & Skills**  
