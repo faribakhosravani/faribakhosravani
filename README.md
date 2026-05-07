@@ -27,6 +27,9 @@ where I develop computational solutions for Earth Science challenges.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faribakhosravani/) 
+ <a href="https://orcid.org/0009-0007-3223-8506">
+    <img src="https://img.shields.io/static/v1?label=ORCID&message=0009-0007-3223-8506&color=green&style=flat&logo=orcid">
+  </a>
 
 # 📊 GitHub Stats:
 [![Fariba's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=faribakhosravani&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/faribakhosravani)
