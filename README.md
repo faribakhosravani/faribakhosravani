@@ -1,5 +1,5 @@
 # <img src="https://media.tenor.com/YCsgU6ozOrsAAAAi/earth.gif" width="37"> **Fariba Khosravani** | Geoscience Enthusiast 
- 
+  
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">  Welcome to my Coding Portfolio! 
  
 <p align="justify"> 
