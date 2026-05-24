@@ -2,7 +2,7 @@
    
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">  Welcome to my Coding Portfolio! 
  
-<p align="justify"> 
+<p align="justify">  
 I'm a <strong>junior undergraduate Geology student</strong> at Kharazmi University, deeply passionate about 
 <strong>Geophysics, Remote Sensing, AI-driven forecasting, and Computational Science</strong>. 
 I also enjoy working with Encoder/Decoder techniques<br>
