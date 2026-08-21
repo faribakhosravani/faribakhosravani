@@ -1,0 +1,151 @@
+\documentclass[11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{microtype}
+\usepackage[left=1.3cm,top=1.4cm,right=1.3cm,bottom=1.1cm]{geometry}
+\usepackage[hidelinks]{hyperref}
+
+\setlength{\parindent}{0pt}
+\pagestyle{empty}
+
+% --- Section style: centered heading + full-width rule ---
+\titleformat{\section}
+  {\normalsize\bfseries\centering}{}{0em}{}[\vspace{-7pt}\rule{\textwidth}{0.6pt}]
+\titlespacing*{\section}{0pt}{9pt}{4pt}
+
+% --- Helpers ---
+% \entry{Organization}{Location}{Role / Degree}{Dates}
+\newcommand{\entry}[4]{%
+  \textbf{#1}\hfill #2\\
+  #3\hfill #4\par}
+
+\newlist{cvitems}{itemize}{1}
+\setlist[cvitems]{label=\textbullet, leftmargin=1.4em,
+  noitemsep, topsep=1pt, partopsep=0pt, parsep=0pt}
+
+\begin{document}
+
+%=================== HEADER ===================
+\begin{center}
+  {\LARGE\bfseries Fariba Khosravani}\\[4pt]
+  \ \textbullet\
+  \href{https://orcid.org/0009-0007-3223-8506}{0009-0007-3223-8506}
+  \ \textbullet\
+  \href{https://github.com/faribakhosravani}{GitHub: faribakhosravani}
+  \ \textbullet\
+  \href{https://www.linkedin.com/in/faribakhosravani}{LinkedIn: faribakhosravani}
+  \ \textbullet\
+    \href{mailto:faribakhosravani.khu.ac@gmail.com}{faribakhosravani.khu.ac@gmail.com}
+\end{center}
+
+%=================== EDUCATION ===================
+\section*{Education}
+\entry{Kharazmi University}{Tehran, Iran}
+      {B.Sc. in Geology, GPA 17.12/20 (First-class honours)}{2023 -- 2027 (expected)}
+\begin{cvitems}
+  \item Executive Vice President, Geological Society of Kharazmi University (June 2025 -- Present).
+  \item Editorial Board Member, \textit{Zamin Pouya} Scientific Journal, Vol.~31 (August 2025 -- June 2026).
+\end{cvitems}
+
+\vspace{5pt}
+\entry{Institute for Advanced Studies in Basic Sciences (IASBS)}{Zanjan, Iran}
+      {Selected participant, 10th School of Earth Sciences}{Summer 2026}
+
+%=================== EXPERIENCE ===================
+\section*{Experience}
+\entry{FEZtool}{Tehran, Iran}
+      {\textbf{Geographic Information System Specialist}}{November 2023 -- Present}
+\begin{cvitems}
+  \item Co-developed \texttt{FEZrs}, an open-source Python package for geospatial and multispectral
+        image processing, with 120{,}000+ downloads.
+  \item Implemented and validated remote-sensing workflows (spectral indices, band math,
+        raster preprocessing) and authored documentation and reproducible usage examples.
+\end{cvitems}
+
+\vspace{5pt}
+\entry{Kharazmi University, Rock Mechanics Laboratory}{Tehran, Iran}
+      {\textbf{Research Assistant} (Supervisor: Prof.~Mehdi Talkhablou)}{October 2025 -- January 2026}
+\begin{cvitems}
+  \item Tested rock core specimens for Uniaxial Compressive Strength (UCS) following
+        ISRM and ASTM D7012, controlling L/D ratio and end-face tolerances.
+  \item Processed stress--strain records to derive strength and deformability parameters,
+        and reported results with quality-control checks on specimen preparation.
+\end{cvitems}
+
+%=================== PUBLICATIONS ===================
+\section*{Publications}
+\textbf{Journal Articles (Under Review)}
+\begin{enumerate}[label={[\arabic*]}, leftmargin=2.0em, noitemsep, topsep=2pt, parsep=0pt]
+  \item Farmahinifarahani, M., Bagheri, M., \& \textbf{Khosravani, F.} SeisFAV-Net: An integrated
+        network combining Fourier Neural Operator, self-attention mechanisms, and variational
+        autoencoder for seismic data random noise attenuation.
+        \textit{Applied Computing and Geosciences} [under review].
+  \item Farmahinifarahani, M., Elmi, P., Nedaee, M., Kiani Faizabadi, M., Mirzaee, H., Moradi, P.,
+        Yazdanifar, M., \textbf{Khosravani, F.}, Najafi, F., \& Talkhablou, M.
+        FEZrs: An open-source Python package for geospatial multispectral image processing and
+        remote sensing. \textit{Journal of Open Source Software} [under review].
+\end{enumerate}
+
+\vspace{4pt}
+\textbf{Conference Proceedings}
+\begin{enumerate}[label={[\arabic*]}, start=3, leftmargin=2.0em, noitemsep, topsep=2pt, parsep=0pt]
+  \item \textbf{Khosravani, F.}, Farmahinifarahani, M., \& Bagheri, M. (2026). Fourier Neural
+        Operators with pointwise Convolutional Neural Networks for seismic data random noise
+        attenuation. \textit{22nd Iranian Geophysical Conference (IGC22)}.
+\end{enumerate}
+
+%=================== PROJECTS ===================
+\section*{Projects}
+\textbf{GEMCNN}\hfill June 2025 -- May 2026\\
+\href{https://github.com/faribakhosravani/GEMCNN}{github.com/faribakhosravani/GEMCNN}
+\begin{cvitems}
+  \item Deep-learning pipeline for gemstone origin determination and treatment detection from
+        multimodal analytical data (FTIR, XRF, ICP-MS).
+  \item Built end-to-end training and evaluation workflow with reproducible configuration and
+        documented inference scripts.
+\end{cvitems}
+
+\vspace{4pt}
+\textbf{Fault\_Monitoring}\hfill October 2025 -- June 2026\\
+\href{https://github.com/faribakhosravani/Fault_Monitoring}{github.com/faribakhosravani/Fault\_Monitoring}
+\begin{cvitems}
+  \item Automated seismicity monitoring and visualization for major active fault systems in Iran,
+        using public earthquake catalogues.
+\end{cvitems}
+
+\vspace{4pt}
+\textbf{A Comprehensive Review of Cenozoic Tectonic Events in Iran}\hfill March 2026 -- July 2026
+\begin{cvitems}
+  \item Capstone project for the Geology of Iran course: synthesis of Cenozoic tectonic
+        evolution from published structural and geochronological data.
+\end{cvitems}
+
+%=================== TRAINING ===================
+\section*{Workshops \& Certifications}
+\begin{cvitems}
+  \item Seismology Skill Building Workshop 2026 (\textit{EarthScope}, in progress).
+  \item Applied Geotechnical Seismology: Design, Implementation, Data Processing and Analysis,
+        theoretical and practical (\textit{Kharazmi University}).
+  \item Non-Destructive Geophysical Methods in Engineering Geology: GPR, Seismology and
+        Magnetometry, theoretical and practical (\textit{Kharazmi University}).
+  \item Hydrocarbon Reservoir Management Series: rock typing for field development, and
+        micro-/nanoscale reservoir characterization from imaging experiments
+        (\textit{Kharazmi University}).
+  \item Gemstone Cutting: faceting, semi-faceting, cabochon
+        (\textit{Technical and Vocational Training Organization}).
+\end{cvitems}
+
+%=================== SKILLS ===================
+\section*{Skills \& Interests}
+\textbf{Programming:} Python (NumPy, pandas, matplotlib), Linux/Bash (familiar)\\
+\textbf{Software:} ArcGIS, Google Earth Engine, MODFLOW, CorelDRAW\\
+\textbf{Laboratory:} Rock mechanics (UCS, specimen preparation), XRF, FTIR, ICP-MS\\
+\textbf{Languages:} Persian (native), English (C1, preparing for TOEFL), Spanish (A2)\\
+\textbf{Interests:} Tectonics, Seismology, Structural Geology, Rock Mechanics
+
+\end{document}
