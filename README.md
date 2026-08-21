@@ -9,7 +9,7 @@ I also enjoy working with Encoder/Decoder techniques<br>
 I specialize in using <strong>programming & data science</strong> to solve geospatial problems in 
 <strong>GIS</strong>.  
 Currently, I'm the <strong> GIS  Specialist at <a href="https://feztool.com/">FEZtool</a></strong>, 
-where I develop computational solutions for Earth Science challenges. You can simply <a href="https://raw.githubusercontent.com/faribakhosravani/faribakhosravani/main/CV/faribakhosravani.pdf" target="_blank">download my Updated CV here</a>.
+where I develop computational solutions for Earth Science challenges. You can simply <a href="https://raw.githubusercontent.com/faribakhosravani/faribakhosravani/main/CV/faribakhosravani.pdf" target="_blank">download my CV here</a>.
 
  
  
