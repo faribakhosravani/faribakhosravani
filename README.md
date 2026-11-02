@@ -39,4 +39,6 @@ where I develop computational solutions for Earth Science challenges. You can si
   <img src="https://media.tenor.com/68uhd4b3tI8AAAAj/black-cat.gif" width="150">
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="27e5a268-4121-44d9-b700-a91ceb25bdb0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ![Profile views](https://komarev.com/ghpvc/?username=faribakhosravani)
